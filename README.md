@@ -5,12 +5,19 @@ This is a Python-based voice assistant that can perform various tasks like openi
 **Features**
 
 Open YouTube in your default web browser
+
 Open Google in your default web browser
+
 Open code editor (Microsoft Visual Studio Code)
+
 Search for information on Wikipedia
+
 Tell a joke
+
 Send a WhatsApp message
+
 Greet the user according to the time of day
+
 Terminate the program
 
 **Setup**
